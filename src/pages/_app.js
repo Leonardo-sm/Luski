@@ -1,0 +1,13 @@
+import { GlobalStyled } from '../styles/global';
+import { appWithTranslation } from 'next-i18next';
+
+function MyApp({ Component, pageProps }) {
+  return (
+    <>
+      <GlobalStyled />
+      <Component {...pageProps} />
+    </>
+  )
+}
+
+export default appWithTranslation(MyApp)

@@ -1,0 +1,46 @@
+{
+    "about": {
+        "title": "ABOUT LUSKI",
+        "description": "We are a university indie studio formed by six friends passionate about playing and developing professional-quality academic games that address diverse topics in a unique, fun way and affordable."
+    },
+
+    "games": {
+        "title": "OUR GAMES",
+        "description": "We are proud of our work because we do with much love and dedication to all."
+    },
+
+    "header": {
+        "start": "HOME",
+        "about": "ABOUT US",
+        "games": "GAMES",
+        "contact": "CONTACT",
+        "language": "LANGUAGES"
+    },
+
+    "footer": "CONTACT",
+    "access": "Access here",
+
+    "aurora": {
+        "description": "Aurora: A Child's Journey is a short and exciting game that talks about the impact of a major environmental disaster through the eyes and feelings of a child. Featuring stunning scenery, beautiful graphics and engaging soundtrack, this game tells a simple, sincere and moving story. ",
+        "subdescription": "Determined to help the environment and her community, Aurora goes out on a adventure to discover what is causing so much destruction and how to solve this problem, often mixing reality with your imagination. ",
+        "lauchInfo": "Release date: Nov/20/20201",
+        "developInfo": "Developer: Luski Game Studio",
+        "publisherInfo": "Distributor: Prothos"
+    },
+
+    "NotYouMaryLu": {
+        "description": "Not You Mary Lu is a game that challenges your skills. It tells the story of a chicken who finds herself lost in a saddlery but is unaware of her magical powers.",
+        "subdescription": "Every time Mary Lu double jump, she lays an egg of fate that brings a new condition and challenge to the game environment. Whether it is turning off the lights, speeding up or slowing down the game, or even reversing gravity.",
+        "lauchInfo": "Release date: Jul/15/2020",
+        "developInfo": "Developer: Luski Game Studio",
+        "publisherInfo": "Publisher: Luski Game Studio"
+    },
+
+    "BeyondDeath": {
+        "description": "Beyond Death is a souls-like film based on the film \"The Seventh Seal\" (1957), by Ingmar Bergman. Set in 14th century Sweden, it tells the story of Greta, a woman killed during the HolyInquisition, which wakes up in a purgatory and, in the hope of a paradise and reuniting with her deceased father, she must fight to seek her soul's redemption.",
+        "subdescription": "Mixing the best of souls-like and narrative game mechanics, Beyond Death adds a new layer to the genre that normally keeps its main characters shallow, giving Greta life and great personality while immersing the player in a challenging experience of epic fights.",
+        "lauchInfo": "Release date: March/20/2021",
+        "developInfo": "Developer: Luski Game Studio",
+        "publisherInfo": "Publisher: Luski Game Studio"
+    }
+}

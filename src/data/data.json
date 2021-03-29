@@ -1,0 +1,99 @@
+[
+    {
+        "name": "aurora",
+        "fullName": "AURORA: A CHILD'S JOURNEY",
+        "description": "Aurora: A Child's Journey é um jogo curto e emocionante que fala sobre o impacto de um grande desastre ambiental pelos olhos e sentimentos de uma criança. Apresentando cenários deslumbrantes, lindos gráficos e trilha sonora envolvente, este jogo conta uma história simples, sincera e comovente.",
+        "descriptionTeste": "aurora.description",
+        "subdescription": "Determinada a ajudar o meio ambiente e sua comunidade, Aurora sai em uma aventura para descobrir o que está causando tanta destruição e como solucionar esse problema, muitas vezes misturando a realidade com sua imaginação.",
+        "infos": ["Data de lançamento: 20/nov/2020", "Desenvolvedor: Luski Game Studio", "Distribuidora: Prothos"],
+        "presskit": "https://www.google.com/",
+        "gameLink": "https://store.steampowered.com/app/1438440/Aurora_A_Childs_Journey/",
+        "images": {
+            "wallpaper": "images/aurora/wallpaper.png",
+            "miniature": "images/slider/aurora.png",
+            "gallery": [
+                  {
+                    "original": "images/aurora/gallery1.png",
+                    "thumbnail": "images/aurora/gallery1.png"
+                  },
+                  {
+                    "original": "images/aurora/gallery2.png",
+                    "thumbnail": "images/aurora/gallery2.png"
+                  },
+                  {
+                    "original": "images/aurora/gallery3.png",
+                    "thumbnail": "images/aurora/gallery3.png"
+                  },
+                  {
+                      "original": "images/aurora/gallery4.png",
+                      "thumbnail": "images/aurora/gallery4.png"
+                  }
+            ]
+        }
+
+    },
+    {
+        "name": "NotYouMaryLu",
+        "fullName": "Not You Mary Lu",
+        "description": "Not You Mary Lu é um jogo que desafia suas habilidades. Conta a história de uma galinha que se encontra perdida em um seleiro, mas desconhece seus poderes mágicos.",
+        "subdescription": "Toda vez que Mary Lu salta duas vezes, bota um ovo do destino que traz ao jogo uma nova condição e desafio ao ambiente do jogo. Seja apagando as luzes, acelerando ou diminuindo a velocidade do jogo ou até invertendo a gravidade.",
+        "infos": ["Data de lançamento: 15/jul/2020", "Desenvolvedor: Luski Game Studio", "Distribuidora: Luski Game Studio"],
+        "presskit": "",
+        "gameLink": "https://luskigamestudio.itch.io/not-you-mary-lu",
+        "images": {
+            "wallpaper": "images/marylu/wallpaper.png",
+            "miniature": "images/slider/marylu.png",
+            "gallery": [
+                {
+                    "original": "images/marylu/gallery1.png",
+                    "thumbnail": "images/marylu/gallery1.png"
+                  },
+                  {
+                    "original": "images/marylu/gallery2.png",
+                    "thumbnail": "images/marylu/gallery2.png"
+                  },
+                  {
+                    "original": "images/marylu/gallery3.png",
+                    "thumbnail": "images/marylu/gallery3.png"
+                  },
+                  {
+                      "original": "images/marylu/gallery4.png",
+                      "thumbnail": "images/marylu/gallery4.png"
+                  }
+            ]
+        }
+
+    },
+    {
+        "name": "BeyondDeath",
+        "fullName": "Beyond Death",
+        "description": "Beyond Death é um souls-like baseado no filme \"O Sétimo Selo\" (1957), de Ingmar Bergman. Ambientado na Suécia do século XIV, ele conta a história de Greta, mulher morta durante a SantaInquisição, que acorda em uma espécie de purgatório e, na esperança de haver um paraíso ereencontrar seu falecido pai, deve lutar para buscar a redenção de sua alma.",
+        "subdescription": "Misturando o melhor da mecânica de jogos souls-like e de jogos narrativos, Beyond Death acrescenta uma nova camada ao gênero que normalmente mantém seus personagens principais rasos, dando vida e grande personalidade à Greta enquanto imerge o jogador em uma experiência desafiadora de lutas épicas.",
+        "infos": ["Data de Lançamento: 20 março, 2021",  "Desenvolvedor: Luski Game Studio", "Distribuidor: Luski Game Studio"],
+        "presskit": "",
+        "gameLink": "https://luskigamestudio.itch.io/beyond-death",
+        "images": {
+            "wallpaper": "images/beyonddeath/wallpaper.png",
+            "miniature": "images/slider/beyonddeath.png",
+            "gallery": [
+                {
+                    "original": "images/beyonddeath/gallery1.png",
+                    "thumbnail": "images/beyonddeath/gallery1.png"
+                  },
+                  {
+                    "original": "images/beyonddeath/gallery2.png",
+                    "thumbnail": "images/beyonddeath/gallery2.png"
+                  },
+                  {
+                    "original": "images/beyonddeath/gallery3.png",
+                    "thumbnail": "images/beyonddeath/gallery3.png"
+                  },
+                  {
+                      "original": "images/beyonddeath/gallery4.png",
+                      "thumbnail": "images/beyonddeath/gallery4.png"
+                  }
+            ]
+        }
+
+    }
+]

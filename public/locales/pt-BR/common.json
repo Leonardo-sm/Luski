@@ -1,0 +1,46 @@
+{
+    "about": {
+        "title": "SOBRE A LUSKI",
+        "description": "Somos um estúdio indie universitário formado por seis amigos apaixonados por jogar e desenvolver jogos acadêmicos com qualidade profissional, que abordam temas diversos de forma única, divertida e acessível."
+    },
+
+    "games": {
+        "title": "NOSSOS JOGOS",
+        "description": "Temos orgulho de nossos trabalhos, pois fazemos com muito amor e dedicação para todos."
+    },
+
+    "header": {
+        "start": "INÍCIO",
+        "about": "QUEM SOMOS",
+        "games": "JOGOS",
+        "contact": "CONTATO",
+        "language": "IDIOMAS"
+    },
+
+    "footer": "CONTATO",
+    "access": "Acesse aqui",
+
+    "aurora": {
+        "description": "Aurora: A Child's Journey é um jogo curto e emocionante que fala sobre o impacto de um grande desastre ambiental pelos olhos e sentimentos de uma criança. Apresentando cenários deslumbrantes, lindos gráficos e trilha sonora envolvente, este jogo conta uma história simples, sincera e comovente.",
+        "subdescription": "Determinada a ajudar o meio ambiente e sua comunidade, Aurora sai em uma aventura para descobrir o que está causando tanta destruição e como solucionar esse problema, muitas vezes misturando a realidade com sua imaginação.",
+        "lauchInfo": "Data de lançamento: 20/nov/2020",
+        "developInfo": "Desenvolvedor: Luski Game Studio",
+        "publisherInfo": "Distribuidora: Prothos"
+    },
+
+    "NotYouMaryLu": {
+        "description": "Not You Mary Lu é um jogo que desafia suas habilidades. Conta a história de uma galinha que se encontra perdida em um seleiro, mas desconhece seus poderes mágicos.",
+        "subdescription": "Toda vez que Mary Lu salta duas vezes, bota um ovo do destino que traz ao jogo uma nova condição e desafio ao ambiente do jogo. Seja apagando as luzes, acelerando ou diminuindo a velocidade do jogo ou até invertendo a gravidade.",
+        "lauchInfo": "Data de lançamento: 15/jul/2020",
+        "developInfo": "Desenvolvedor: Luski Game Studio",
+        "publisherInfo": "Distribuidora: Luski Game Studio"
+    },
+
+    "BeyondDeath": {
+        "description": "Beyond Death é um souls-like baseado no filme \"O Sétimo Selo\" (1957), de Ingmar Bergman. Ambientado na Suécia do século XIV, ele conta a história de Greta, mulher morta durante a SantaInquisição, que acorda em uma espécie de purgatório e, na esperança de haver um paraíso ereencontrar seu falecido pai, deve lutar para buscar a redenção de sua alma.",
+        "subdescription": "Misturando o melhor da mecânica de jogos souls-like e de jogos narrativos, Beyond Death acrescenta uma nova camada ao gênero que normalmente mantém seus personagens principais rasos, dando vida e grande personalidade à Greta enquanto imerge o jogador em uma experiência desafiadora de lutas épicas.",
+        "lauchInfo": "Data de Lançamento: 20/Março/2021",
+        "developInfo": "Desenvolvedor: Luski Game Studio",
+        "publisherInfo": "Distribuidor: Luski Game Studio"
+    }
+}
